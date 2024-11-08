@@ -1,0 +1,15 @@
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\bin\Debug\D_UTS.exe.config
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\bin\Debug\D_UTS.exe
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\bin\Debug\D_UTS.pdb
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.csproj.AssemblyReference.cache
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.SelamatDatang.resources
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.FormTambahkanBukuBaru.resources
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.HalamanBuku.resources
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.HalamanDashboard.resources
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.HalamanLogin.resources
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.HalamanRegistrasi.resources
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.Properties.Resources.resources
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.csproj.GenerateResource.cache
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.csproj.CoreCompileInputs.cache
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.exe
+C:\adi\semester 3\pbo pr\utsalgopbopr\D_UTS\D_UTS\obj\Debug\D_UTS.pdb
